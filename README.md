@@ -46,6 +46,22 @@
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ1aTR1bjRtMDBxbm83cGs5MXE0YjNnaWdodWl6bXU0Z24yc3h1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdQNz4dutSII8/giphy.gif"  />
 </div>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
+
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadfaizanhaidar&theme=juicyfresh&no-bg=true" />
+
+
 ###
 
 <p align="center">El código no se escribe solo... pero casi 😉</p>
