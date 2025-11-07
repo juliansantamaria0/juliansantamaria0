@@ -54,6 +54,6 @@
 
 ###
 
-<p align="center">“El código no se escribe solo... pero casi 😉”</p>
+<p align="center">El código no se escribe solo... pero casi 😉</p>
 
 ###
