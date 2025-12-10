@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">💻 Estudiante de programación con conocimientos en Python, HTML, CSS y JavaScript.<br>🚀 Apasionado por aprender nuevas tecnologías y seguir mejorando cada día como desarrollador.</h4>
+<h4 align="center">💻 Estudiante de programación con conocimientos en Python, HTML, CSS, Mysql y JavaScript.<br>🚀 Apasionado por aprender nuevas tecnologías y seguir mejorando cada día como desarrollador.</h4>
 
 ###
 
