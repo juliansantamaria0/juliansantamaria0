@@ -13,66 +13,70 @@
 
 ---
 
-### 👤 Sobre mí
-
 <div align="center">
 
-💻 Estudiante de programación enfocado en el desarrollo de software &nbsp;•&nbsp;
-📚 Experiencia con Python, HTML, CSS, JavaScript y MySQL &nbsp;•&nbsp;
+### 👤 Sobre mí
+
+💻 Estudiante de programación enfocado en el desarrollo de software
+📚 Experiencia con Python, HTML, CSS, JavaScript y MySQL
 🚀 Apasionado por aprender nuevas tecnologías y construir soluciones funcionales
 
 </div>
 
 ---
 
+<div align="center">
+
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,git,github,vscode" />
+
 </div>
 
 ---
 
-### 📂 Proyectos destacados
-
 <div align="center">
+
+### 📂 Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [⚽ Sistema de Gestión de Liga](https://github.com/juliansantamaria0/liga) | Aplicación para gestionar equipos, jugadores y estadísticas | `Python` `JSON` |
 | [🌐 Proyecto Web HTML & CSS](https://github.com/juliansantamaria0/ProyectodeHTML_CSS) | Sitio web con diseño estructurado y buenas prácticas de maquetación | `HTML` `CSS` |
-| [🤖 Proyecto de Inteligencia Artificial](https://github.com/Kevinsierra1/Proyecto_Inteligencia_Artificial_1) | Proyecto colaborativo con soluciones de IA | `Python` |
+| [🤖 Proyecto de IA](https://github.com/Kevinsierra1/Proyecto_Inteligencia_Artificial_1) | Proyecto colaborativo con soluciones de inteligencia artificial | `Python` |
 
 </div>
 
 ---
+
+<div align="center">
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliansantamaria0&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliansantamaria0&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=juliansantamaria0&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliansantamaria0&theme=tokyonight&hide_border=true" height="150"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliansantamaria0&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juliansantamaria0&theme=tokyo-night&hide_border=true" width="100%"/>
+
 </div>
 
 ---
+
+<div align="center">
 
 ### 🧠 Aprendiendo ahora
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
-  `C#` &nbsp; `.NET Entity Framework`
+`C#` &nbsp; `.NET Entity Framework`
+
 </div>
 
 ---
 
-### 🎯 Objetivo
-
 <div align="center">
+
+### 🎯 Objetivo
 
 Convertirme en desarrollador profesional aportando soluciones eficientes y escalables.
 
