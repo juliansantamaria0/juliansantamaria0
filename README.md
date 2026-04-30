@@ -15,9 +15,13 @@
 
 ### 👤 Sobre mí
 
-- 💻 Estudiante de programación enfocado en el desarrollo de software
-- 📚 Experiencia con Python, HTML, CSS, JavaScript y MySQL
-- 🚀 Apasionado por aprender nuevas tecnologías y construir soluciones funcionales
+<div align="center">
+
+💻 Estudiante de programación enfocado en el desarrollo de software &nbsp;•&nbsp;
+📚 Experiencia con Python, HTML, CSS, JavaScript y MySQL &nbsp;•&nbsp;
+🚀 Apasionado por aprender nuevas tecnologías y construir soluciones funcionales
+
+</div>
 
 ---
 
@@ -31,11 +35,15 @@
 
 ### 📂 Proyectos destacados
 
+<div align="center">
+
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [⚽ Sistema de Gestión de Liga](https://github.com/juliansantamaria0/liga) | Aplicación para gestionar equipos, jugadores y estadísticas | `Python` `JSON` |
 | [🌐 Proyecto Web HTML & CSS](https://github.com/juliansantamaria0/ProyectodeHTML_CSS) | Sitio web con diseño estructurado y buenas prácticas de maquetación | `HTML` `CSS` |
 | [🤖 Proyecto de Inteligencia Artificial](https://github.com/Kevinsierra1/Proyecto_Inteligencia_Artificial_1) | Proyecto colaborativo con soluciones de IA | `Python` |
+
+</div>
 
 ---
 
@@ -54,13 +62,21 @@
 
 ### 🧠 Aprendiendo ahora
 
-`Estructuras de datos` &nbsp; `Clean Code` &nbsp; `Arquitectura de software` &nbsp; `Git profesional`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+
+  `C#` &nbsp; `.NET Entity Framework`
+</div>
 
 ---
 
 ### 🎯 Objetivo
 
+<div align="center">
+
 Convertirme en desarrollador profesional aportando soluciones eficientes y escalables.
+
+</div>
 
 ---
 
