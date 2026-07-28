@@ -64,12 +64,6 @@
 
 <div align="center">
 
-### 🧠 Aprendiendo ahora
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-
-`C#` &nbsp; `.NET Entity Framework`
-
 </div>
 
 ---
