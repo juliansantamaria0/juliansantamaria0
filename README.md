@@ -18,7 +18,7 @@
 ### 👤 Sobre mí
 
 💻 Estudiante de programación enfocado en el desarrollo de software
-📚 Experiencia con Python, HTML, CSS, JavaScript y MySQL
+📚 Experiencia con Python, HTML, CSS, JavaScript, MySQL, C# y TypeScript 
 🚀 Apasionado por aprender nuevas tecnologías y construir soluciones funcionales
 
 </div>
